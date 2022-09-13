@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omarabozaid
 - 👀 I’m interested in numerical analysis and CFD.
-- 🌱 I’m currently learning and computer graphics and web development.
-- 💞️ I’m looking to collaborate on grid generation and web development.
+- 🌱 I’m currently learning computer graphics and web development.
+- 💞️ I’m looking to collaborate on numerical analysis, grid generation and web development.
 - 📫 How to reach me omarabozaid@aucegypt.edu
 
 <!---
